@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.inputfield{
+  width: 500px;
+  margin-left: 400px;
+  margin-top: 160px;
+  border-radius: 4vh;
+  
+}
+#one{
+  font-size: 3vh;
+  margin-bottom: -1px;
+  color: rgb(54, 139, 192);
+ 
+}
+fieldset{
+  border-radius: 5vh;
+  height: 8vh;
+border-color: rgb(151, 154, 155); 
+
+}
+/* ------------------------------------------------ */
